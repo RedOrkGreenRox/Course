@@ -8,4 +8,4 @@ def palindrom(stroke):  # Берем строку.
         return False
 
 
-print(palindrom(input()))   # Печатаем результат функции для введеной строки.
+print(palindrom(input()))   # Печатаем результат функции для нашей строки.
