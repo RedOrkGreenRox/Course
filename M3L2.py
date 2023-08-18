@@ -27,7 +27,7 @@ a = 'ABCAAC1C'
 
 
 def strcounter(a):  # O(N * M)
-    for char in sorted([set(a)]):
+    for char in sorted(list(set(a))):
         print(f'"{char}" = {a.count(char)}')
 
 
