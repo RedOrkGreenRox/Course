@@ -32,3 +32,4 @@ def strcounter(a):  # O(N * M)
 
 
 strcounter(a)
+# Новый код
