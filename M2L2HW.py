@@ -1,7 +1,7 @@
 # -*- coding: utf8 -*
 # https://web.telegram.org/k/#@llve_bot
 import telebot
-token = '6258507399:AAH2WEPn5dwE1pzaGAPX6qs5k5F9eUvAPMQ'
+token = ''
 botMyName = telebot.TeleBot(token)
 
 
