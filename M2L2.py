@@ -1,7 +1,7 @@
 # -*- coding: utf8 -*-
 import telebot
 import random
-token = '6378962315:AAHfif_GSYVg_Bi7_7QiahE9NqppXYjiyQA'
+token = ''
 bot = telebot.TeleBot(token)   # Подключение к боту.
 #
 #
