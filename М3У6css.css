@@ -1,0 +1,21 @@
+body    {
+    background: lightgray;
+}
+h1  {
+    background: darkgreen;
+}
+
+.paragraph-1  {
+    background: gray;
+    font-size: 14pt;
+    color: darkred;
+}
+.paragraph-2    {
+    border: 5px solid darkred;
+    border-radius: 25px;
+    font-size: 14pt;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-left: 40px;
+    padding-up: 30px;
+}
